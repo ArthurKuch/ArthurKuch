@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **How to become a great back-end dev;)**
 
-- 📫 How to reach me **kucharthur18@gmail.com**
+- 📫 Mail: **kucharthur18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
