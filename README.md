@@ -1,5 +1,9 @@
 <h1 align="center">Hiya, I'm Artur</h1>
-<h3 align="center">I'm just writing java code and trying to do my best</h3>
+<h3 align="center">I'm just writing code and trying to do my best</h3>
+
+- 🌱 I’m currently learning **How to become a great back-end dev;)**
+
+- 📫 How to reach me **kucharthur18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
