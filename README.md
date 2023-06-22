@@ -1,5 +1,5 @@
 <h1 align="center">Hiya, I'm Artur</h1>
-<h3 align="center">I'm just writing code and trying to do my best</h3>
+<h3 align="left">I am a highly motivated Junior Java developer with a keen attention to detail. I am actively seeking opportunities to gain practical experience, improve my skills, and work collaboratively with a team. My goal is to grow personally and professionally, and I am enthusiastic about learning from experienced professionals and gaining valuable commercial experience.</h3>
 
 - 📫 Mail: **kucharthur18@gmail.com**
 
